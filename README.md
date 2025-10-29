@@ -49,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
