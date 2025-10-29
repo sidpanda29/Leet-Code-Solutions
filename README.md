@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
