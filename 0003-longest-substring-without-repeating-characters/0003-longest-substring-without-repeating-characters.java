@@ -16,16 +16,6 @@ class Solution {
                 finalIndex = currIndex + 1;
             }          
         }
-
         return counter;
-
-
-        /*for(int i = 0; i < s.length()-1; i ++){
-           if(!temp.contains(s.substring(i+1,i+2))) temp = temp + s.substring(i,i+1);
-           System.out.println(temp);
-           if(temp.length() > counter) counter = temp.length();
-           if(temp.contains(s.substring(i,i+1))) temp = "";
-        }
-        return counter;*/
     }
 }
