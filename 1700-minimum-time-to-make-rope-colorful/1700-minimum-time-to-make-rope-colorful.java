@@ -9,11 +9,12 @@ class Solution {
         int startIndex = 0;
         int finalIndex = 0;
         int max = 0;
+        int n = colors.length();
         boolean maxTriggered = false;
-        for(int i = 0; i < colors.length(); i ++){
+        for(int i = 0; i < n; i ++){
             startIndex = i;
             finalIndex = i+1;
-            while(finalIndex < colors.length() && colors.charAt(finalIndex) == colors.charAt(startIndex)){
+            while(finalIndex < n && colors.charAt(finalIndex) == colors.charAt(startIndex)){
                 finalIndex ++;
             }
             
