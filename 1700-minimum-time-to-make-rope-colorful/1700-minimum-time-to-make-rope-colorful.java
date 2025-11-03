@@ -1,9 +1,9 @@
 class Solution {
     public int minCost(String colors, int[] neededTime) {
-
+        
         // if the string is 0 or 1, there is no duplicate balloons, return original
         if(colors.length() <= 1) return 0;
-
+    
         // Counter, compare start to final. Put the result into counter to be returned
         int counter = 0;
         int startIndex = 0;
@@ -16,8 +16,6 @@ class Solution {
             while(finalIndex < colors.length() && colors.charAt(finalIndex) == colors.charAt(startIndex)){
                 finalIndex ++;
             }
-            System.out.print(startIndex + ", " + finalIndex);
-            System.out.println();
             
             max = neededTime[startIndex];
             for(int j = startIndex; j < finalIndex; j++){
