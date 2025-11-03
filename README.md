@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Monotonic Stack
 |  |
 | ------- |
