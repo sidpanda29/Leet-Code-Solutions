@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
