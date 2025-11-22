@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/0002-add-two-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
