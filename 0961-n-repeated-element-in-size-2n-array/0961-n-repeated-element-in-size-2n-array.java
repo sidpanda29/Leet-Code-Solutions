@@ -1,7 +1,6 @@
 class Solution {
     public int repeatedNTimes(int[] nums) {
 
-        if(nums.length == 2) return nums[0];
         int n = (nums.length / 2) + 2;
 
         for(int i = 0; i < n; i++){
