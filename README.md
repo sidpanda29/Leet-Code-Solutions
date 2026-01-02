@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/0217-contains-duplicate) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sidpanda29/Leet-Code-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
